@@ -1,0 +1,1 @@
+# SampleCrudStoreAspNetCore8WithIndentity
